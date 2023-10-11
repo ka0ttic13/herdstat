@@ -1,0 +1,10 @@
+
+Todo list for herdstat
+
+- Fix --fetch --quiet bug (it's not quiet).
+  (added 04/19/05, 10:28, incomplete, priority veryhigh)
+
+- IDEA: maybe make a --summary option for the package handler that prints total
+  # of pkgs, #pkgs per category, etc
+  (added 04/15/05, 03:06, incomplete, priority medium)
+
